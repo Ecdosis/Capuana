@@ -1,5 +1,5 @@
-# LIST OF SOURCES
-## Manuscripts and printed books
+# ELENCO DELLE FONTI
+## Manoscritti e libri a stampa
 
 ### Il drago
 [Manoscritto A](/capuana/msviewer?docid=italian/capuana/ildrago/A) 
