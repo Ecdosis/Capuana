@@ -1,6 +1,3 @@
-Luigi Capuana (1839 – 1915) was a Sicilian writer of the *Verist* movement. His colleagues included Giovanni Verga and the novelist Federico De Roberto. This site presents some of his works, currently the play *Aristofanunculos*, and the children's story *The Dragon*.
+Luigi Capuana (1839 - 1915) è stato uno scrittore, giornalista e critico letterario italiano. Fu esponente del Verismo, corrente letteraria derivante dal naturalismo francese, assieme a Verga a De Roberto. Ingegno versatile, ha scritto diversi romanzi (*Giacinta, Profumo, Il marchese di Roccaverdina*), pubblicato varie raccolte di novelle (*Storia fosca, Profili di donne, le Appassionate e le Paesane*) e lavorato per famosi quotidiani dell'epoca (*Rivista italica, Gioventù, Corriere della sera*). 
 
-  * The [Sources](3) contains descriptions of the source documents and links to their page-images.
-  * The [Timeline](/capuana/timeline?docid=italian/capuana&title=Luigi%20Capuana&subtitle=Vita%2C%20Lettere%2C%20Composizioni&event_type=biography&language=it) presents key events in the life of Capuana organised in an interactive timeline.
-  * The [Biography](/capuana/biography?docid=italian/capuana) lists these events as a readable narrative.
-
+Si propone qui un'edizione critica digitale de *Il Drago*, prima novella della raccolta *Il Drago: novelle raccontini ed altri scritti per fanciulli*. 
